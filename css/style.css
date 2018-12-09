@@ -1,0 +1,26 @@
+body{
+    background-color: grey;
+}
+
+.search-form{
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+}
+
+.search{
+    height: 50px;
+    border-radius: 6px;
+    width: 250px;
+}
+li{
+    background-color: cadetblue;
+    width: 200px;
+    height: 30px;
+    justify-content: center;
+    margin: auto;
+}
