@@ -35,6 +35,7 @@ fetch(endpoint)
        suggestions.innerHTML = html;
     }
 
+
     const searchInput = document.querySelector('.search');
     const suggestions = document.querySelector('.suggestions');
 
